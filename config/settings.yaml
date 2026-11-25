@@ -1,0 +1,10 @@
+database: data/outreach.db
+sheet_id: '' # set after authorization
+sheet_range: Websites!A:Z
+send_enabled: false
+max_daily_total: 100
+max_daily_per_mailbox: 10
+followup_days: [4, 9]
+max_followups: 2
+research_timeout_seconds: 12
+user_agent: 'GuestPostResearchBot/1.0 (business contact research)'
